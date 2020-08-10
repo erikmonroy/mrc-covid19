@@ -35,6 +35,6 @@ right after the beginning `</h1>` tag
 #### Authors
 Erik Spangenberg, 
 MRC Volunteer, 
-Vassar Colleget Student
+Vassar College Student
 
 Contact at: espangenberg@vassar.edu
