@@ -30,7 +30,7 @@ with
 2. Add
 `<div class="patient">`
 right after the beginning `</h1>` tag
-3. Delete the final hanging `</div>` tag at the end, as it causes an Index Error. NOTE: not performing this step will still result in a perfectly functional CSV
+3. Delete the final hanging `</div>` tag at the end, as it causes an Index Error. NOTE: not performing this step should still result in a identically functional CSV
 
 #### Authors
 Erik Spangenberg, 
